@@ -4,7 +4,7 @@
   <title><![CDATA[Colt/Code]]></title>
   <link href="http://Colt.github.io/atom.xml" rel="self"/>
   <link href="http://Colt.github.io/"/>
-  <updated>2014-07-28T22:44:53-07:00</updated>
+  <updated>2014-07-29T22:15:53-07:00</updated>
   <id>http://Colt.github.io/</id>
   <author>
     <name><![CDATA[Colt Steele]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Pixel Sorting Experiments Part 3]]></title>
+    <link href="http://Colt.github.io/blog/2014/07/28/pixel-sorting-experiments-part-3/"/>
+    <updated>2014-07-28T22:51:50-07:00</updated>
+    <id>http://Colt.github.io/blog/2014/07/28/pixel-sorting-experiments-part-3</id>
+    <content type="html"><![CDATA[<p>After my initial American Flag experiments, I decided to take on another iconic image: Van Gogh&rsquo;s Starry Night.  Here&rsquo;s the image I started with:</p>
+
+<p><img  src="http://Colt.github.io/images/rothko.jpg" ></p>
+
+<p>I ended up sorting the pixels a bunch of different ways, but here are some of my favorites:</p>
+
+<h3>Sorted By Brightness</h3>
+
+<p><img src="http://Colt.github.io/images/Rothko_Brightness.png" ></p>
+
+<!-- more -->
+
+
+<h3>Sorted By Green With Smoothing</h3>
+
+<p><img src="http://Colt.github.io/images/Rothko_Green_A.png" ></p>
+
+<h3>Sorted By Saturation</h3>
+
+<p><img src="http://Colt.github.io/images/Rothko_Saturation.png" ></p>
+
+<p>Though I was happy with this result, I decided to play around with smoothing the results out a bit. Here&rsquo;s the result:</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Pixel Sorting Experiments Part 2]]></title>
@@ -95,6 +125,10 @@
 
 
 <p>Here are a few more of my favorites:</p>
+
+<h3>Sorted By Hue</h3>
+
+<p><img src="http://Colt.github.io/images/Starry_Hue.png" ></p>
 
 <h3>Sorted By Hue With Smoothing</h3>
 

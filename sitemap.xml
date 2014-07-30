@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://Colt.github.io/blog/2014/07/28/pixel-sorting-experiments-part-3/</loc>
+    <lastmod>2014-07-28T22:51:50-07:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://Colt.github.io/blog/2014/07/28/pixel-sorting-experiments-part-2/</loc>
     <lastmod>2014-07-28T22:30:00-07:00</lastmod>
     <priority>0.8</priority>
@@ -17,14 +23,14 @@
   
   <url>
     <loc>http://Colt.github.io/blog/archives/</loc>
-    <lastmod>2014-07-28T22:44:53-07:00</lastmod>
+    <lastmod>2014-07-29T22:15:53-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://Colt.github.io/</loc>
-    <lastmod>2014-07-28T22:44:53-07:00</lastmod>
+    <lastmod>2014-07-29T22:15:53-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
